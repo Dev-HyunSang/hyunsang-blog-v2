@@ -1,7 +1,7 @@
 ---
 layout: article
+titles: Links
 ---
-# Links
 > 한 번씩 읽어보면 좋을 내용들에 대해서 기록합니다.  
 작성 규칙은 **작성자 - 제목** or **USER(Organization)/Repository**으로 합니다.
 
