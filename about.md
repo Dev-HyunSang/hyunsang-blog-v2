@@ -3,6 +3,12 @@ layout: article
 titles: About Me
 key: page-about
 ---
+## Motto
+> You can't let your failures define you.  
+You have to let your failures teach you.  
+당신의 실패가 당신을 정의하게 놔두지 말고  
+실패가 당신을 가르치게 하라.  
+Barack Hussein Obama / 버락 후세인 오바마
 
 ## About Me
 <div class="item">
