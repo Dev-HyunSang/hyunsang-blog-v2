@@ -7,12 +7,12 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Minimal Blog`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteLanguage: `en`,
+    siteTitle: `HyunSang Park`,
+    siteTitleAlt: `HyunSang Park`,
+    siteHeadline: `HyunSang Park`,
+    siteUrl: `https://hyunsang.dev`,
+    siteDescription: `Go언어를 통해서 다양한 서비스들을 만들고 있어요! 기술과 관련되어서 글 쓰는 활동을 굉장히 좋아하고 있어요.`,
+    siteLanguage: `k`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
   },
@@ -34,12 +34,12 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/hyunsang_0625`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },
+            name: `TIL`,
+            url: `https://hyunsang.dev/TIL`
+          }
         ],
       },
     },
