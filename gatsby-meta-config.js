@@ -43,8 +43,26 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        date: '2020.12.17 ~ 12.19',
+        activity: '제4회 정부혁신제안 끝장개발대회 인기상 수상',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          // github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          // demo: 'https://www.zoomkoding.com',
+        },
+      },
+      {
+        date: '2020.09.12~13(예선)\n2020.10.17~18(본선)',
+        activity: '국방부 사이버작전사령부 사이버 작전 경연대회 2020',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          // github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          // demo: 'https://www.zoomkoding.com',
+        },
+      },
+      {
         date: '2021.08.09 ~',
-        activity: '개인 블로그 개발 및 운영',
+        activity: 'Software Engineer @TeamGRIT, Inc.',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           // github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
