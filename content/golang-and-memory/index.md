@@ -68,3 +68,7 @@ Go언어의 GC는 채널(Channel) 변수에 대해서도 동일하게 메모리 
 - [Go: How Does the Garbage Collector Watch Your Application?](https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-watch-your-application-dbef99be2c35)
 - [Go 언어의 GC](https://velog.io/@kineo2k/Go-%EC%96%B8%EC%96%B4%EC%9D%98-GC)
 - [Tricolor Algorithms in Go](https://www.developer.com/languages/tricolor-algorithm-golang/)
+
+```toc
+
+```
