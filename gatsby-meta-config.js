@@ -63,6 +63,10 @@ module.exports = {
         date: '2022.03.31',
         activity: 'GDG Golang Korea Golang 1.18 Release Party 발표',
       },
+      {
+        date: '2023.03 ~ ',
+        activity: '순천향대학교 정보보호학과 재학',
+      },
     ],
 
     projects: [
