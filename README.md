@@ -7,7 +7,9 @@
 - [`zoomkoding/zoomkoding-gatsby-blog`](https://github.com/zoomkoding/zoomkoding-gatsby-blog)에서 테마를 더 손쉽게 접근할 수 있었습니다.
 ```shell
 $ git clone https://github.com/zoomkoding/zoomkoding-gatsby-blog.git
-$ npm install
-$ npm run start # 로컬 서버 구동
-$ npm run deploy # GitHub Page 배포
+$ yarn install 
+# or
+$ yarn
+$ yarn run start # 로컬 서버 구동
+$ yarn run deploy # GitHub Page 배포
 ```
