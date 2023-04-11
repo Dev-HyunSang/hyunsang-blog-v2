@@ -4,7 +4,7 @@ title:  삶의 원동력을 얻을 수 있는 나와 존경하는 인물들의 �
 date: '2023-03-16'
 author: HyunSang Park
 tags: ["미래"]
-categories: 나의 다양한 생각들 중
+categories: 생각들
 ---
 제가 앞으로 살면서 어떻게 살아가야할지에 대해서 저의 생각을 정리해 보고자 합니다.
 저에게는 존경하는 인물들이 생각보다 많습니다. 존경한 사람들이 어떤 말을 하고 사는지, 그리고 어떻게 성공했는지에 대해서 보면서 어떻게 성공하고 생각했는지에 대해서 제 생각을 정리하고자 합니다.  
@@ -28,21 +28,25 @@ categories: 나의 다양한 생각들 중
 
 > **"먼곳을 향해하는 배가 풍파를 만나지 않고 조용히만 갈 수 없다.  
 > 풍파는 언제나 전진하는 자의 벗이다. 차라리 고난 속에 인생의 기쁨이 있다.  
-> 풍파 없는 항해. 얼마나 단로운가! 고난이 심할수록 내 가슴은 뛴다."**
+> 풍파 없는 항해. 얼마나 단로운가! 고난이 심할수록 내 가슴은 뛴다."**  
 
 ![니체의 명언](IMG_1132.jpeg)
 
 <p style="color: #A6ACAF; text-align: center; font-size: 15px;">가장 인상 깊은 명언인지라 캘린더 제일 앞 장에 기록해 두었다.</p>  
 
 > **”모든 것의 시작은 위험하다. 그러나 무엇을 막론하고,  
-> 시작하지 않으면 아무것도 시작되지 않는다.“**
+> 시작하지 않으면 아무것도 시작되지 않는다.“**  
+> 프리드리히 니체의 "인간적인 너무나 인간적인"에서
 
 ### 수학자 허준이
-필즈상을 수상하면서 엄청난 인기를 얻은 수학자 허준이의 서울대학교 졸업식 축사를 보면서 많은 영감을 받았습니다.  
+필즈상을 수상하면서 엄청난 인기를 얻은 수학자 허준이의 서울대학교 졸업식 축사를 보면서 많은 영감을 받았습니다.   
+많은 사람들이 자신의 죽음을 편안하게 죽길 원합니다. 저조차 그렇습니다.
 
 > **"실패를 두려워하지 말고 도전하라. 편안하고 안전한 길을 거부하라."**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OLDhaqosPtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0PNH9vft6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 문학가 이어령
 이어령 선생님의 영상을 예전에 보았지만 관심이 별로 없었지만 인문학에 대해서 관심을 가진 이후로 [이어령의 마지막 수업](http://www.yes24.com/Product/Goods/104692009)을 읽으면서 제가 영감을 받는 부분이 많았습니다.  
@@ -63,13 +67,13 @@ categories: 나의 다양한 생각들 중
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2BHEQpZAMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMOyG6cw8EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 넥슨 창업주 김정주
 고인이 되신 김정주 대표님의 행보를 보면서 많은 점을 배웠습니다. 6천만원에서 시작한 넥슨을 시가총액 24조원, 연매출 3조의 세계적인 게임사로 성장 시키셨습니다.  
 넥슨 재단을 통해서 어린이재활병원을 건립하는 모습을 보고, 다른 큰 대기업도 많은 선행을 펼치지만 넥슨이 어린이재활병원에 관심을 가지고 지속적으로 기부하는 모습을 보고서 존경하게 되었습니다.   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZ4x-FdcjzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMOyG6cw8EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 팀그릿 강성일 대표
 제가 지금 재직하고 있는 회사의 대표님이신 강성일 대표님은 제게 가장 큰 영감과 많은 조언 속에서 한 층 한 층 성장할 수 있었습니다.  
